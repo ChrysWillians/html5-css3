@@ -1,0 +1,22 @@
+body{
+    background: #CCCCCC;
+    text-align: center;
+}
+
+#banner{
+    width: 100%;
+    
+}
+
+#missao{
+    font-size: 20px;
+}
+
+em strong{
+    color:rgb(255,0,0);
+}
+
+.itens{
+    font-style: italic;
+
+}
